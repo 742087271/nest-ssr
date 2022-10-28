@@ -3,7 +3,7 @@ echo ${commit_seql}
 
 #  获取当前时间戳
 # env="dev"
-env="oci-test"
+env="otest"
 cur_sec=$(date "+%Y%m%d%H%M%S")
 echo "export default '${env}-${cur_sec}'" > version.js
 # tagName="${env}-${cur_sec}"

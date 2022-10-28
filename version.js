@@ -1,1 +1,1 @@
-export default 'oci-test-20221028110310'
+export default 'otest-20221028111329'
